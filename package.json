@@ -8,7 +8,7 @@
         "color": "#272833"
     },
     "publisher": "AlehandroKang",
-    "license": "SEE LICENSE IN LICENSE.md",
+    "license": "SEE LICENSE IN LICENSE.txt",
     "version": "1.0.0",
     "engines": {
         "vscode": "^1.63.0"
