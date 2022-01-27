@@ -13,6 +13,10 @@
     "engines": {
         "vscode": "^1.63.0"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AlehandroKang/cereal-theme.git"
+    },
     "categories": [
         "Themes",
         "Other"
