@@ -1,0 +1,42 @@
+{
+    "name": "cereal-theme",
+    "displayName": "Cereal Theme",
+    "description": "A simple light/dark theme",
+    "icon": "images/cereal-theme-icon256.png",
+    "galleryBanner": {
+        "theme": "dark",
+        "color": "#272833"
+    },
+    "publisher": "AlehandroKang",
+    "license": "SEE LICENSE IN LICENSE.md",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes",
+        "Other"
+    ],
+    "keywords": [
+        "Theme",
+        "Themes",
+        "Dark Theme",
+        "Light Theme"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Cereal Light",
+                "uiTheme": "vs",
+                "id": "cereal-light-theme",
+                "path": "./themes/light-color-theme.json"
+            },
+            {
+                "label": "Cereal Dark",
+                "uiTheme": "vs-dark",
+                "id": "doge-dark-theme",
+                "path": "./themes/dark-color-theme.json"
+            }
+        ]
+    }
+}
