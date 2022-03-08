@@ -68,6 +68,7 @@
 		"editorGroupHeader.tabsBackground": "#0e1013",
 		//status bar
 		"statusBar.background": "#000000",
+		"statusBar.noFolderBackground": "#000000",
 		"statusBar.debuggingForeground": "#ffffff",
 		"statusBar.debuggingBackground": "#9351df",
 		"statusBarItem.warningForeground": "#ffffff",

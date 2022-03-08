@@ -87,6 +87,7 @@
 		"activityBar.activeBorder": "#f3f2f1",
 		//status bar
 		"statusBar.background": "#f3f2f1",
+		"statusBar.noFolderBackground": "#f3f2f1",
 		"statusBar.debuggingForeground": "#ffffff",
 		"statusBar.debuggingBackground": "#a572e0",
 		"statusBarItem.warningForeground": "#ffffff",
